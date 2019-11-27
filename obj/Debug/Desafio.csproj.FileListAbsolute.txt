@@ -1,0 +1,9 @@
+C:\Users\Yaguar01\Desktop\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\Yaguar01\Desktop\Desafio\bin\Debug\Desafio.exe
+C:\Users\Yaguar01\Desktop\Desafio\bin\Debug\Desafio.pdb
+C:\Users\Yaguar01\Desktop\Desafio\obj\Debug\Desafio.csprojAssemblyReference.cache
+C:\Users\Yaguar01\Desktop\Desafio\obj\Debug\Desafio.Form1.resources
+C:\Users\Yaguar01\Desktop\Desafio\obj\Debug\Desafio.Properties.Resources.resources
+C:\Users\Yaguar01\Desktop\Desafio\obj\Debug\Desafio.csproj.GenerateResource.cache
+C:\Users\Yaguar01\Desktop\Desafio\obj\Debug\Desafio.exe
+C:\Users\Yaguar01\Desktop\Desafio\obj\Debug\Desafio.pdb
